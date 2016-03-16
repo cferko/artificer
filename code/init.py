@@ -5,6 +5,7 @@ import shutil
 ## TODO: This document will have all global functions like attendance,
 ## ask, etc.
 
+
 def attendance(my_name):
     """Saves student's name to the attendance directory.
     
