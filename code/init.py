@@ -47,6 +47,7 @@ if __name__=="__main__":
     ## their name and state variables
 
     my_index = os.getcwd().split('/')[-1]
+    print "Testing index fetch. Index is", my_index
     ## Does this use the directory init is called from, or the one it's in?
     
     dataframe = pd.read_csv("../logs/name_map.csv")
