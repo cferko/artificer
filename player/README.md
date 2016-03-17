@@ -6,4 +6,4 @@ Each folder in this directory is the personal working space for a given player. 
 
 Fresh copies of new notebooks will be copied into the corresponding directories as the story progresses.
 
-Each folder also contains the checkpoints and logs for the player. These individual logs are periodically aggregated and combined in the /home/logs folder.
+Each folder also contains the checkpoints and logs for the player. These individual logs are periodically aggregated and combined in the /home/logs folder. Only a given player can write to his/her own log.
