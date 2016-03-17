@@ -44,19 +44,18 @@ def get_help():
     ## TODO
     pass
 
-if __name__=="__main__":
-    ## This runs every time a student starts a new notebook, so we keep
-    ## their name and state variables
+## This runs every time a student starts a new notebook, so we keep
+## their name and state variables
 
-    my_index = os.getcwd().split('/')[-1]
-    ## Does this use the directory init is called from, or the one it's in?
-    
-    dataframe = pd.read_csv(home_dir+"logs/name_map.csv")
+my_index = os.getcwd().split('/')[-1]
+## Does this use the directory init is called from, or the one it's in?
 
-    my_row = dataframe[dataframe["index"]==my_index]
-    my_name = my_row["student name"][0]
-    my_char = my_row["character name"][0]
-    my_email = my_row["email"][0]
-    
-    ## Note -- also need to update state of current notebook file. Should
-    ## probably fetch this from
+dataframe = pd.read_csv(home_dir+"logs/name_map.csv")
+
+my_row = dataframe[dataframe["index"]==my_index]
+my_name = my_row["student name"][0]
+my_char = my_row["character name"][0]
+my_email = my_row["email"][0]
+
+## Note -- also need to update state of current notebook file. Should
+## probably fetch this from
