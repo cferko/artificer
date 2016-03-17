@@ -7,6 +7,8 @@ import pandas as pd
 ## TODO: This document will have all global functions like attendance,
 ## ask, etc.
 
+home_dir = "/home/main/notebooks/"
+
 def attendance(my_name):
     """Saves student's name to the attendance directory.
     
@@ -14,7 +16,7 @@ def attendance(my_name):
     attendance sheet file.
     """
     ## TODO: this is clunky, should handle by log creation
-    f=open("../logs/attendance/"+my_name, "w")
+    f=open(home_dir+"logs/attendance/"+my_name, "w")
     f.close()
     
 def ask(my_question):
@@ -22,8 +24,8 @@ def ask(my_question):
     
     Assumed to be run by a student with defined state variables
     """
-    my_path = "../logs/ask/"
-    questions = os.listdir("../logs/ask/")
+    my_path = home_dir+"logs/ask/"
+    questions = os.listdir(my_path)
     if len(questions)==0:
         my_index='0'
     else:
@@ -47,14 +49,10 @@ if __name__=="__main__":
     ## their name and state variables
 
     my_index = os.getcwd().split('/')[-1]
-    print "Testing index fetch. Index is", my_index
     ## Does this use the directory init is called from, or the one it's in?
     
-    dataframe = pd.read_csv("../logs/name_map.csv")
-    
-## This line is just for testing
-    my_index="ao"
-    
+    dataframe = pd.read_csv(home_dir+"logs/name_map.csv")
+
     my_row = dataframe[dataframe["index"]==my_index]
     my_name = my_row["student name"][0]
     my_char = my_row["character name"][0]
