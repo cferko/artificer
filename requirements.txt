@@ -1,0 +1,5 @@
+scikit-image
+pymc
+nltk
+pyaudio
+wave
