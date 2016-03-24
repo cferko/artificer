@@ -1,4 +1,5 @@
 c = get_config()
+c.TerminalIPythonApp.display_banner = True
 c.InteractiveShellApp.exec_files = [
-    'init.py'
+    'notebook_setup.py'
 ]

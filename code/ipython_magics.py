@@ -28,11 +28,7 @@ class MyMagics(Magics):
         namespace_variables = self.shell.user_ns.keys()
         
         current_state = update_state.update_state(current_state, namespace_variables)
-        transition = update_state.handle_transition(current_state)
-        
-        if transition != None:
-            update_state.display_transition(transition)
-        
+
         pickle.dump(current_state, open("state.p", "wb"))
         return
 

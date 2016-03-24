@@ -1,29 +1,35 @@
 import sys
-sys.path.insert(0, "..")
+sys.path.insert(0, "/home/main/notebooks")
 import encounters
+import shutil
+from IPython.core.display import display_markdown
+import pickle
 
 ## This is basically pseudocode at this point -- still todo
 
-def scorer1(fn):
-    if fn(1)==1:
-        return 1, "good"
+def handle_transition(current_state):
+    if len(current_state["completed"])<3:
+        return None
     else:
-        return 0, "okay"
+        shutil.copy("/home/main/notebooks/source/cadon/cadon_draft.ipynb", 
+                    "./next_level.ipynb")
+
+        my_display = """# End of Mission
         
-def scorer2(fn):
-    return (fn() == True), ""
+        This is a markdown cell with a summary of your performance.
+        
+        [Click here](next_level.ipynb.ipynb) for your next mission."""
+        
+        get_ipython().set_next_input(display_markdown(my_display, raw=True))
+        
+        return True
 
-def handle_transition(arg):
-    return None
-
-scorer_dict = {'func_1' : scorer1, 'func_2':scorer2}
-
-def update_state(self, old_state, namespace_variables):
+def update_state(old_state, namespace_variables):
     current_state = old_state.copy()
 
     current_level = current_state["level"]
-    active = current_state["target_variables"]
-    completed = current_state["completed_variables"]        
+    active = current_state["active"]
+    completed = current_state["completed"]        
     current_score = current_state["score"]        
     
     for varname in active:
@@ -31,27 +37,25 @@ def update_state(self, old_state, namespace_variables):
             print varname, "has not been completed!"
         elif varname in namespace_variables:
             var=eval(varname)
-            this_scorer = scorer_dict[varname]
-            my_score, my_output = this_scorer(var)
-            if my_score == -1:
+            
+            this_encounter = encounters.test.get_encounter(varname) 
+            
+            this_score = this_encounter.score()
+            if this_score == -1:
                 print varname, "did not behave as expected; please try again."
-            elif my_score >= 0:
+            elif this_score >= 0:
                 completed.append(varname)
                 active.remove(varname)
-                print my_output
-                current_score += my_score
+                current_score += this_score
     
     current_state["score"] = current_score
     current_state["active"] = active
     current_state["completed"] = completed
     
     transition = handle_transition(current_state)
-    
-    if transition != None:
-        display_transition(transition)
         
     return current_state
-    
-current_state={'level':0, 'target_variables':['func_1', 'func_2'], 
-               'completed_variables':[], 'score':0}
+
+current_state={'level':0, 'active':['test', 'derp', 'herp'], 
+               'completed':[], 'score':0}
 pickle.dump(current_state, open("state.p", "wb"))
