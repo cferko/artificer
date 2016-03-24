@@ -2,10 +2,12 @@ import sys
 sys.path.insert(0, "/home/main/notebooks")
 import encounters
 import shutil
-from IPython.core.display import display_markdown
+from IPython.core.display import display
 import pickle
 
 ## This is basically pseudocode at this point -- still todo
+
+from IPython.core.display import HTML
 
 def handle_transition(current_state):
     if len(current_state["completed"])<3:
@@ -14,13 +16,13 @@ def handle_transition(current_state):
         shutil.copy("/home/main/notebooks/source/cadon/cadon_draft.ipynb", 
                     "./next_level.ipynb")
 
-        my_display = """# End of Mission
+        my_display = """End of Mission
         
         This is a markdown cell with a summary of your performance.
         
-        [Click here](next_level.ipynb.ipynb) for your next mission."""
+        <a href = "next_level.ipynb" target="_blank">Click here</a> for your next mission."""
         
-        get_ipython().set_next_input(display_markdown(my_display, raw=True))
+        display(HTML(my_display))
         
         return True
 
