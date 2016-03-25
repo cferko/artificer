@@ -1,4 +1,4 @@
-## Eldritch
+# Eldritch
 This repository holds source material for a game titled Eldritch, to be held at the spring 2016 jtTalks.
 
 Eldritch is an edularp, or educational live-action roleplaying game. It blends elements of fantasy tabletop games like Dungeons and Dragons, programming tutorials in the format of [Jupyter notebooks] (http://jupyter.org/), and game-based learning approaches to computer science such as [CodeCombat](https://codecombat.com/). Students assume the roles of political leaders in the fictional continent of Caeros, which is under attack by hostile subterranean creatures known as aberrants while also facing an internal crisis of governance. An analogy is drawn between real-world programming challanges and in-game uses of the mysterious eldritch tongue, a language whose utterances produce magical effects. By executing snippets of code, students' characters accomplish in-game tasks, accumulate experience points and influence for their factions, and ultimately turn the tide of the invasion.
@@ -9,7 +9,7 @@ Additional information on the game world of Eldritch can be found at our [wiki](
 
 All of the source code for the project is in Python and Jupyter notebooks, and is freely available above. The project is still very much in development; documents are incomplete, and code and explanatory text is often incorrect. Individual Jupyter notebooks can be viewed online in browser, but the interactive elements of the simulation can be accessed only if the project is running on a Binder web server.
 
-# Motivation
+## Motivation
 
 Substantial educational research has focused on the efficacy of [game-based](https://www.nfer.ac.uk/publications/GAME01/GAME01.pdf) [learning] (https://www.edsurge.com/news/2013-08-19-a-meta-analyses-on-the-research-behind-game-based-learning), and more generally on non-traditional pedagogical approaches such as [active learning](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Papers/Prince_AL.pdf), [project-based learning](http://bie.org/images/uploads/general/9d06758fd346969cb63653d00dca55c0.pdf), and [inquiry-based learning](http://galileo.org/focus-on-inquiry-lit-review.pdf). Although the results are far from conclusive, preliminary evidence suggests that each of these approaches improves student engagement and learning outcomes over more passive models such as the traditional lecture method.
 
@@ -17,7 +17,7 @@ This trend is especially apparent in computer science. Many educators have shift
 
 The goal of the Eldritch project is to combine elements from all of these trends and create an experience which is unique and engaging. The goal is not to provide a traditional introduction to computer programming, and students do not come away from the game with a comprehensive background in data structures and flow control. Rather, students are given a whirlwind tour of the most exciting applications of computer science and applied mathematics. Many of the in-game tasks make use of fairly sophisticated mathematical tools with only a high-level explanation of what's going on "under the hood." Rather than formal development and careful proofs, the program focuses on building intuition and experience with using the tools. Overall, this approach avoids much of the instructional overhead and imparts a rough working knowledge of what computer programming can be used for -- the aim is "not the filling of a bucket but the lighting of a fire," so to speak.
 
-# Logistics
+## Logistics
 
 The simulation consists of twelve distinct factions, known in the game setting as Marked Houses. Based on limited experience with similar educational games, it seems that the optimal group size in such a context is close to four students (this is sufficiently large for substantial discussion and collaboration, but small enough to avoid fragmentation of students into a small "active" group with other students becoming disengaged.) Thus the target participation size for an iteration of the game is close to 50 students.
 
@@ -31,7 +31,7 @@ Game masters are given access to an interface which tracks student progress and 
 
 As the game progresses, students' progress and roleplaying decisions affect the in-game plot and may have downstream consequences. When the game reaches a conclusion, the game masters act out a concluding roleplaying scene which describes the aggregate results of all of these choices, and all runtime data is stored for later analysis. The "live" portion of the game (excluding the tutorial but including the main component in which students work in groups) should take about two hours.
 
-# Learning Goals
+## Learning Goals
 
 Although the Eldritch game does not focus on a traditional curriculum and the experience will differ between participants in different groups, there are a few common take-away messages which it aims to communicate to all students.
 
