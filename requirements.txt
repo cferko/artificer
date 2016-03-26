@@ -1,4 +1,5 @@
 scikit-image
+cv2
 pymc
 nltk
 pyaudio
