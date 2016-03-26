@@ -1,3 +1,4 @@
+setuptools
 scikit-image
 cv2
 pymc
