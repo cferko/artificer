@@ -1,7 +1,6 @@
 setuptools
 scikit-image
 cv2
-pymc
 nltk
 pyaudio
 wave
