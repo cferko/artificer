@@ -1,0 +1,28 @@
+DRAGONSHARDS
+Dragonshards appear in three distinct forms, each associated
+with and originating in a different part of the world.
+These crystal fragments can be shaped and used to power
+magic items, artifacts, and constructs, or to enhance the
+abilities bestowed by dragonmarks.
+All dragonshards appear as translucent rock or crystal
+with swirling veins of color suspended within them.
+The veins are reminiscent of dragonmarks but are not
+copies of them, and the pulsating veins make the stones
+look almost alive. Though dragonshards are translucent,
+the glowing veins running through them lend their color
+to each crystal.
+Siberys dragonshards fall from the Ring of Siberys
+that forms a broken path across the night sky. A pulsating
+swirl of golden veins glows within the crystalline depths
+of a Siberys dragonshard.
+Khyber dragonshards are found deep in the earth,
+near layers of magma. These living crystals typically grow
+on cavern walls. A Khyber dragonshard has writhing,
+midnight blue to oily black veins running through it.
+Eberron dragonshards are buried in the shallow
+soil of the world and are usually found encased
+in geodelike stone eggs. An Eberron dragonshard has
+crimson, blood-red swirls churning within its crystalline
+surface.
+Dragonshards and the uses associated with them are
+described in Chapter 10: Magic Items.
