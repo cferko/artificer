@@ -1,0 +1,68 @@
+The plane of Dal Quor is home to a host of creatures
+called the quoriliving embodiments of dream and
+nightmare. Quori are the masters of the Dreaming Dark
+and survive on the Material Plane by inhabiting specially
+prepared human vessels, called the Inspired. The tsucora
+quori (presented below) is one of the more common
+kinds of quori; additional kinds may appear in future
+Eberron products
+
+MAGEBRED ANIMAL
+The widespread use of magic on Eberron has led to the
+development of magical enhancements to animal breeding,
+particularly within House Vadalis. Some experiments in
+that direction have created new creatures that are actually
+magical beasts, with unusual intelligence and supernatural
+or spell-like abilities. In general, however, the aim of these
+breeding programs is simply to create better animalsones
+that are more suited for use in the work of daily life. These
+magically enhanced animals are called magebred.
+A magebred animal looks essentially like a fine specimen
+of its kind. Sometimes one may display unusual coloration,
+including colors rarely found in nature. Its appearance is
+always slightly exaggerated, emphasizing the feature for
+which it was bred: A horse magebred for pulling loads has
+exceptionally large shoulder muscles, for example, while a
+dog magebred for tracking has a particularly long nose.
+
+SYMBIONT
+Symbionts are complete creatures, generally capable of surviving
+apart from a host creature for at least some length of
+time. They are generally Tiny or smaller, and physically very
+weak on their own. They survive by joining with a host creature,
+usually granting the host certain benefits in exchange
+for the protection afforded by a larger body. This symbiotic
+relationship usually benefits both parties (though in some
+cases the symbiont might better be described as a parasite).
+A symbiont occupies part of the host creature's body
+sometimes, but not always, limiting the number of magic
+items the host can use in the same way as a magic item does.
+Like intelligent magic items, symbionts have Ego scores,
+which reflect their strength of will and drive for power.
+Symbionts with high Ego scores, like magic items of similar
+sort, can sometimes take control of their host creatures.
+The Ego score of a symbiont is determined in the same
+way as that of an intelligent magic item, and listed with
+each symbionts entry in the Abilities line. Add the
+symbiont's Intelligence, Wisdom, and Charisma
+bonuses (if any) to determine its base Ego score.
+Add 1 for each special quality and 2 for
+\T each special attack. Add 4 if the symbiont
+is an outsider. For example, a living
+breastplate has a base Ego score of 4 (2 from its
+15 Wisdom and 2 from its 14 Charisma), plus 1
+for its damage reduction special quality, 1 for
+its enhance Constitution special quality, 1 for
+its light fortification special quality, 1 for its
+ability to stabilizehost, and 1 for its telepathic
+ability, for a total Ego of 9. Evil and orderly, it
+pairs perfectly with the typical daelkyr.
+
+A huge golem forged of composite materials swings a massive axe and maul
+as it shambles forward.
+Among the first warforged created during the Last War, titans
+are a small step forward from massive, mindless war golems.
+Warforged titans are not true living constructs like other
+warforged; they are barely sentient, with just enough intelligence
+to follow changing commands in the heat of battle.
+

@@ -1,0 +1,506 @@
+POWER GROUPS
+The royal family and the noble warlords possess the visible
+power in Karrnath. All of the dragonmarked houses conduct
+business in the nation, but only House Deneith and
+House Jorasco use Karrnath as their base of operations. A
+few secret power groups operate within Karrnath, including
+the Blood of Vol cult and its military arm, the Order
+of the Emerald Claw. A discussion of these power groups
+and how they interact with each other follows.
+The Royal Family: Karrnath's royal family consists
+of King Kaius III, his wife Etrigani, the king's younger
+brother and sister, and assorted uncles, aunts, and cousins.
+Kaius retains the services of his aunt, the Regent
+Moranna, as his chief advisor and minister of internal
+affairs. (Moranna, who is actually Kaius's granddaughter
+rather than his aunt, is secretly a vampire like her king;
+see the sidebar on page 178 for more information about
+the king of Karrnath's secret.)
+Queen Etrigani (CG female elf, aristocrat 4/wizard
+2) met Kaius when she appeared before his court on behalf
+of the government of Aerenal during a diplomatic tour of
+the Five Nations. An intense courtship followed, and the
+two were married in 993 YK, on the second anniversary
+of Kaius's ascension to the throne. The queen has taken an
+active interest in the affairs of her adopted nation, and Kaius
+regularly sends her as an emissary to foreign courts. (Etrigani
+knows of her husband's true nature and has fought to overcome
+her cultural bias against negatively charged undead.)
+Moranna (LE female human vampire aristocrat
+4/sorcerer 5) continues to serve as regent of Karrnath, a
+post that has been transformed from a stewardship to an
+advisory position. She never ventures far from the court or
+from Kaius's side, except when he sends her out in his name to
+handle crises near and far. Moranna, a large, strong woman,
+has a commanding manner and a no-nonsense approach
+that leaves most of her underlings shaking in her wake.
+The king keeps a harem, but not for the reason that
+most people think. All of the members of the king's harem
+are followers of the Blood of Vol who have given their allegiance
+to Kaius. The young men and women in the harem
+voluntarily give themselves to Kaius so that the king can
+feed. He never takes more blood than an individual can
+safely give, and he never goes to the same individual more
+than once in any two-week period. The harem is kept
+secluded in its own wing of Crownhome, Kaius's family
+castle, and is forbidden to speak with anyone besides the
+king or queen. A warforged named Beauty (LN female
+personality warforged, fighter 7) guards the harem, having
+served Kaius faithfully since before his current ascension
+to the throne.
+One of the more powerful members of Kaius's family
+is Count Vedim ir'Omik (LE male human, wizard 9), a
+royal cousin who holds the position of Minister of the
+Dead for the crown. Vedim, a practitioner of necromancy
+who has a fascination for all things related to death and
+the undead, oversees the collection of corpses and the
+creation and maintenance of the undead troops used to
+bolster Karrnath's forces. Prior to this new age of peace,
+Vedim's role was much more visible and prominent than
+it currently is. Now, because of Kaius's desire to forge a
+lasting peace, Vedim is forced to operate in the shadows.
+Kaius has not ordered him to stop the program, but he has
+told Vedim to keep a lower profile. Vedim believes that all
+this talk of peace will eventually fail, and then he will once
+again receive the recognition he deserves.
+Kaius has recently sent his brother Gaius to Thrane
+and his sister Haydith to Breland as part of the current
+exchange of relatives among the ruling families. He would
+prefer to have his younger siblings close so he can oversee
+their training, but improving relations with the other
+remnants of Galifar is too important for Kaius to refuse
+to participate.
+Nobles and Vassal Lords: The nobles granted land
+and title by the crown of Karrnath function as warlords for
+the highly militaristic nation. From their fortress-towns,
+called raths, the warlords protect their holdings and
+gather their legions until the king calls for their services.
+Two of the most powerful and influential warlords, Renn
+ir'Tanar (CN male human, fighter 7) and Charl ir'Loran
+(LE male human, aristocrat 1/ranger 6), command the battalions
+of the living charged with defending the heart of
+the Karrnathi nation. Both of these men publicly support
+their king, but behind the scenes they lead efforts to derail
+the peace process and restart the war.
+House Deneith: From high within the Sentinel Tower
+in Karrlakton, the patriarch of House Deneith and other
+family leaders conduct the business of defense and protection.
+Breven d'Deneith (LN male human, aristocrat 3/fighter
+3/dragonmark heir 3) controls the family with an iron fist.
+Despite the family's strong ties to Karrnath, Breven demands
+that all members of his house maintain an attitude of neutrality
+and fairness to all nations and institutions. Breven's
+Defenders Guild operates out of the house enclave, as do
+the offices of the Sentinel Marshals. In the early years of the
+kingdom of Galifar, the Sentinel Marshals were granted the
+right to enforce laws and bring fugitives to justice throughout
+the land. When the kingdom shattered, Deneith's Sentinel
+Marshals retained their role as law officers with the added
+ability to cross borders in pursuit of justice. Today, all the
+nations that signed the Treaty of Thronehold have agreed to
+allow Deneith to continue in this role as international police
+officers. The marshals all return to the Sentinel Tower as
+time and circumstance permits to report on their activities
+and receive updated instructions.
+House Jorasco: The matriarch of House Jorasco, Ulara
+d'Jorasco (LG female halfling, adept 6/dragonmarkheir 5),
+maintains a healing enclave in the city of Vedykar. Almost
+a city unto itself within greater Vedykar, the Healers Guild
+enclave is a huge complex from which the house conducts
+business across Khorvaire. The complex also contains healing
+facilities, a training hospital, a spa for long-term convalescence,
+and an asylum for those the healers can't cure of
+madness and other mental maladies. Ulara rarely travels far
+from the enclave, leaving the business of managing distant
+healing centers to younger members of the family.
+The Twelve: The Twelve is the arcane institute established,
+funded, and named by the dragonmarked houses. It
+operates out of a thirteen-tiered tower that floats above Wollvern
+Park in the capital city of Korth. (The thirteenth tier, in
+memorial to the legendary lost mark, was constructed as a
+179
+hollow shell and remains empty to this day.) In addition to
+using it as a center of arcane learning, the dragonmarked
+houses share in the arcane research undertaken within
+the floating tower. The kings of Karrnath have regularly
+sought advice and council from the Twelve, and Kaius has
+not abandoned this practice. As might be expected, the
+Twelve suffered significant loses over the course of the Last
+War, as many senior wizards resigned their posts to offer
+their services to their beleaguered homelands, particularly
+in the years leading up to the cessation of hostilities. Now,
+with their numbers reduced and less powerful wizards sitting
+on the Committee of Twelve just so that each house
+holds its seat, the Twelve is at a crossroads. Will it lose
+ground to the increasingly important Arcane Congress of
+Aundair, or will the dragonmarked houses find wizards
+worthy of the Twelve among their ranks?
+The Blood of Vol: A cult dedicated to the undead in
+general (and secretly to the lich Vol in particular), the
+Blood of Vol has had a foothold in Karrnath since the
+time of Kaius I. Although the king was eventually able
+to break the cult's hold on his government, the Blood
+of Vol continues to operate in the nation's secret places,
+watching for opportunities to expand its influence and
+for ways to once again insinuate itself into the kingdom's
+halls of power. The high priest of the cult in Karrnath is
+Malevanor (LE male mummy [half-elf], cleric 8 Blood
+of Vol), who oversees the rites and rituals of blood within
+the Crimson Monastery, the largest temple dedicated to
+the Blood of Vol in the nation. The Crimson Monastery
+commands a prime piece of real estate in Atur, the City of
+Night. Though the cult doesn't draw as many followers as it
+once did, and though many of its shrines and temples have
+been closed or forced into hiding, the Crimson Monastery
+remains active and open to the current day. Malevanor's
+adepts and other cult members have hooks throughout
+the kingdom, secretly manipulating events from the deep
+shadows while presenting a humble countenance from
+their open temple.
+The Order of the Emerald Claw: Once, this knightly
+order served the king of Karrnath faithfully. Now the order
+has been outlawed and the government has denounced its
+activities. Still, the Order of the Emerald Claw continues
+to operate, following the agenda set forth for it by its secret
+master, the lich Vol. When the order served the king, it
+provided security, elite agents, and unswerving shock troops
+that were a step or two better than the average Karrnathi
+soldier. As long as the king's commands did not violate the
+will of the order's secret master, the knights of the Emerald
+Claw appeared to be unquestionably loyal to the king and
+fanatically dedicated to crown and nation.
+When Kaius I learned the truth of their allegiance
+and how he had been used, he started the process of disbanding
+and disenfranchising the order. This was not
+accomplished until the reign of Regent Moranna, when
+the order was driven underground. Now the Emerald
+Claw operates as a vast underground network and terrorist
+group, proclaiming itself to be working to return
+Karrnath to greatness. In truth, the order is just another
+elaborate plot and powerful tool in the service of Vol, the
+lich lord of the Blood of Vol cult. Much larger and more
+Sentinel Tower in Karrlakton
+active in Khorvaire's current events than anyone is aware
+of, the Order of the Emerald Claw is a powerful army
+ready to serve the will of Vol. The true nature of the order
+remains a closely guarded secret, and any who discover its
+connection to the Blood of Vol quickly become sacrifices
+for the blood ceremonies.
+RELIGION
+The Sovereign Host holds sway over the majority of the
+nation, with most of its temples and churches dedicated
+to Boldrei, Dol Arrah, Dol Dorn, or Olladra. Because of
+the tensions between Karrnath and Thrane, the Church of
+the Silver Flame has only a token presence here, with small
+conclaves in Korth and Vedykar. A small but not insignificant
+part of the population still follows the teachings
+of the Blood of Vol, despite the crown's official break with
+the cult. In the Crimson Monastery, located in the city of
+Atur, the cult continues to hold open ceremonies in honor
+of the power of blood and the mysteries of undeath. Note
+that most of the normal crafters and townsfolk who adhere
+to the tenets of the Blood of Vol don't know about the lich
+at the cult's head and aren't evil. They simply believe in
+the notion of blood as the source of life and undeath as a
+path to divinity.
+MAJOR SETTLEMENTS
+Karrnath's citizens congregate in the metropolitan centers
+that lie in the western part of the nation, with a much
+smaller population in the farmland to the east. Consequently,
+most of the major settlements have grown up west of
+the Ashen Spires Mountains. Some of the more prominent
+settlements are discussed below.
+Korth (Metropolis, 85,500): The city of Korth
+has served as Karrnath's capital since before the days of
+the kingdom of Galifar. Some of its buildings date back
+to the earliest human settlements; many others were
+built during the great expansion that marked the middle
+period of Galifar I's reign. The Korth skyline rises along
+the southern shore of the Karrn River, with the dense
+Nightwood to the east of the city gates. The high walls of
+Crownhome, the hereditary home of Karrnath's royal
+family, rise atop King's Hill in the Highcourt Ward of
+the city. Another prominent structure, the Cathedral
+of the Sovereign Host, fills a sizable piece of real estate
+in the Temple Ward and has shrines dedicated to the
+entire pantheon.
+In general, the style of the city is heavy and symmetrical,
+with blocks set forth in a grid or radiating out from
+a central plaza. The militaristic influence that infuses all
+of Karrnath society permeates Korth and helps define
+the monolithic appearance of the buildings and decorative
+features such as monuments, obelisks, and tombs.
+Five wards make up greater Korth, and each ward has
+its own personality. These wards are named Highcourt,
+Temple, Commerce, Community, and Low District. While
+each ward consists of living space, markets, and other city
+necessities, each concentrates on an aspect of city life and
+is built to accommodate that aspect. The Highcourt Ward
+houses most of the government departments, as well as
+the halls of the royal family and some of the more affluent
+noble families. The Temple Ward features winding streets
+dedicated to the many religions of Khorvaire; everything
+from small shrines to giant cathedrals can be found here,
+and some representative of even the most obscure cult
+probably finds a location to preach from within the walls
+of this ward. The Commerce Ward presents businesses
+of all types and provides space for the enclaves of all the
+dragonmarked houses; supply and demand come together
+inside this sprawling ward. The Community Ward is the
+most residential ward in Korth, providing housing for
+the middle class. The Low District is a dangerous maze
+of narrow streets from which the poor and the destitute
+attempt to eke out an existence. The criminal element has
+a firm hold on the Low District, using its twisting warrens
+as a hiding place and somewhere from which to conduct
+business best done in the shadows.
+Karrlakton (Metropolis, 60,000): Located along
+the Cyre River, southeast of Korth, the second great city
+of Karrnath stares into the face of disaster across the turbulent
+waters. Karrlakton, an ancient place of power and
+the birthplace of kings (both Karrn the Conqueror and
+Galifar I were born here), can never completely shake the
+feeling of despair that hangs over the place; the memory
+of poor Cyre remains fresh as an open wound.
+House Deneith has a lot of influence in Karrlakton,
+and enclaves, outposts, training centers, and barracks can
+be found throughout the city. Here, one of Karrnath's
+largest industrial centers churns out weapons and armor.
+Karrnathi armaments tend to be functional and heavy,
+with neither the styling nor elegance evident in their Brelish
+counterparts.
+Because of the close proximity of the Mournland,
+Karrlakton attracts a number of doomsayers and apocalyptic
+cultists. One can look across the river to see the wall of
+dead-gray mist like a funeral shroud that hugs the border
+of what was once Cyre. Rarely does anything slip out of the
+Mournland and make it across the fast-moving river, but
+sometimes the winds change to carry a flying monstrosity
+or living spell into Karrlakton.
+The ports of Karrlakton were once active and important
+to the interior sections of the nation. Since the destruction
+of Cyre, however, water activity has decreased significantly.
+The waterway has become much more turbulent and harder
+to navigate than it once was, and few sailors relish getting
+too close to the desolate shore or the dead-gray mist. For
+this reason, the city has lost a lot of transportation and cargo
+business to Atur as sea captains turn to the Karrn River for
+travel inland, then employ cargo caravans to move goods
+to Vedykar and farther into the interior.
+Rekkenmark (Large City, 14,900): From the halls
+of Rekkenmark Academy, one of the premier military
+training institutions on the continent, the cliffs that border
+both sides of Scions Sound can be seen. The large city of
+Rekkenmark has stared into the face of one of Karrnath's
+most fervent enemies since the kingdom of Galifar collapsed
+and the children of Jarot went to war. Perhaps the
+most telling moment of the Last War occurred in 899 YK
+when King Kaius I ordered the destruction of the great
+White Arch Bridge to prevent an invasion by severing
+the passage across the sound. As the massive stone blocks,
+181
+decorative statues, lightning rail conductor stones, and
+distinctive golden arches fell into the sound, the people
+of Rekkenmark realized that the Galifar kingdom had
+truly come undone. Today, the remains of the shattered
+bridge jut out over the cliffs as a stark reminder of both
+the connection that once existed and the war that ended
+Galifar's dream.
+Rekkenmark's history as the training ground for
+generals and other military officers goes back to the
+second Galifar king (Karrn ir'Wynarn), who dedicated
+the facility that eventually became the Rekkenmark
+Academy. The city is rich in tradition and old-world
+charm, with much of Rekkenmark harkening back to
+the glory days of early Galifar. Unfortunately, the city
+has also seen its share of death and destruction. Reminders
+of the infamous air raid of 874 YK can still be seen,
+especially in the cliffside neighborhood of Draco Hill.
+Here, a number of buildings remain devastated, riddled
+by small boulders dropped from above by wyverns working
+with Thrane.
+A lightning rail line crosses the Karrn River to
+connect Rekkenmark with Korth. In addition, various
+trails, paths, and trade roads lead out of the city toward
+the interior of the nation. The high, sheer cliffs that
+border Scions Sound make access to the waterway almost
+impossible, so Rekkenmark has no ports or water traffic to
+speak of. A Lyrandar airship mooring tower rises above the
+city, though it gets only occasional use, since most airships
+head directly to Korth upon crossing Karrnath's borders
+from the west or north.
+Atur (Large City, 12,600): Also called the City of
+Night, Atur sits in the shadow of the Ashen Spires, near
+the great Karrn Falls that spill out of the mountains and
+flow into the Karrn River. The close peaks of the Ashen
+Spires, the constant mist rising off the swirling waters of
+the Karrn, and the oppressive brick buildings make for
+a place that has relatively short periods of direct daylight
+and consequently long nights. But the City of Night was
+named more for the fact that the place seems to come alive
+when darkness overtakes the land. With the city's temple
+to the Blood of Vol (called the Crimson Monastery) and
+its massive Vaults of the Dead, where corpse collectors
+store the fodder for Karrnath's undead armies, Atur has
+a definite connection to the twilight and midnight hours.
+A significant portion of the population follows the teachings
+of the Blood of Vol and attends the daily rituals in
+the Crimson Monastery.
+Otherwise, the City of Night has a rhythm and pulse
+that seems to increase when the sun goes down. Fest halls,
+taverns, theaters, and bordellos of all descriptions open
+their doors after dark and stay active until the sun struggles
+back up and over the mountains. For many visitors, the city
+seems to operate in a way opposite to the other metropolitan
+centers of the Five Nations. Everything appears quiet
+and deserted by day, but by night the various shops and
+businesses open to crowds of people.
+King Kaius III maintains Nighthold, a retreat in
+Atur. He uses it when he wants to get away from the bustle
+of Korth, though he can hold court in the City of Night
+if circumstances warrant.
+IMPORTANT SITES
+History has painted a vibrant portrait across the nation of
+Karrnath. Some of the oldest pre-Galifar settlements can
+still be found around the Karr n River, and the rich traditions
+of the Galifar kingdom can be seen in the architecture
+of the nation and the faces of its people. Battles during the
+Last War took place on both sides of the Cyre River, across
+the ever-shifting border that separated the Karrnat h and
+Talenta Plains, and along the Karr n Bay. Karrnathi naval
+engagements occurred in Scions Sound, in Karr n Bay,
+along the Cyre River, and in Lake Cyre, and the Karrnathi
+navy even pushed as far as Eldeen Bay and Lake Brey.
+The Nightwood: A dense, shadowy forest that fills
+the land between the Karr n and Cyre rivers, the Nightwood
+is a forest with two aspects. The outer edge is a royal
+huntin g preserve overrun with deer, foxes, and other
+small game. Th e deep woodsa tangle of ancient trees
+and deadfallsis a dangerous, mysterious location into
+which few dare venture. Monsters and othe r foul creatures
+roam the heart of the Nightwood, sometimes slipping
+into the more benig n regions and occasionally even
+out of the forest to threaten the farms and villages nearest
+the forest's edge. Legends claim that a great chasm lies
+at the center of the Nightwood, an oozing pit that drops
+away to the depths of Khyber itself.
+Fort Bones: This outpost guards the borde r that
+separates Karrnat h from the Talenta Plains. The fort is
+commanded by the Captain of Bones, an honorary title
+that comes with knights, a fort and the land around it, and
+a legion of skeletal soldiers. An old fort had been in place
+here since before the start of the Last War. After it was razed
+during the Battle of the Long Night, it was rebuilt using
+the bones of Karrnath's enemies. Today, the fort combines
+brick and stone with the bones of those who have fallen
+fighting against the defenders of Karrnath . The current
+Captain of Bones, Berre Stonefist (LN female dwarf, ranger
+4), commands a small band of human and dwarf mercenaries
+bolstered by almost one hundred Karrnath i skeletons.
+Stonefist and her troops guard the southern border and
+stay in regular contact with the Captain of Corpses who
+commands Fort Zombie to the north.
+Lake Dark: The pitch-black waters of Lake Dark shimmer
+in the farmland in eastern Karrnath. Fed by the cold
+runoff of the Iron River, Lake Dark is a large body of mistshrouded
+water that collects in a depression in the fields
+between the Icetop Mountains and the Talenta Plains. The
+small towns of Lakeside and Irontown flank Lake Dark, and
+smaller farming communities encircle it with their various
+kinds of crops. Many believe that spirits haunt Lake
+Dark, and that the pitch-black waters provide a pathway
+to Dolurrh, a location from which the living can sometimes
+speak with the dead. Lake Dark is a manifest zone
+connected to the realm of the dead, and spells related to
+necromancy have greater power when cast in proximity to
+its dark, restless waters.
+Madstone: Something terrible occurred deep in the
+heart of the Icewood shortly after human s first settled
+the area. In these cold, norther n woods, one of the first
+humans to carry the Mark of Sentinel ventured into the
+grip of the Icewood and never came back out. It is said that
+182
+he came upon a strange, burning crystal that had erupted
+from the ground and glowed with a midnight-blue light.
+When the dragonmarked human touched the grapefruitsized
+dragonshard, he was pulled into its depths, where he
+remains to this day. Or so the legend goes.
+Today, travelers give one portion of the Icewood a
+wide berth, for the weird Khyber dragonshard called the
+Madstone has demonstrated a hunger that has called many
+unfortunates to it over the centuries. The Madstone has
+now grown to the size of a large boulder, and it seems to
+get larger with every victim it captures within its dark,
+crystalline embrace. The expanding shard continues to
+call others to join it; whether cajoled, tricked, or mesmerized,
+hundreds of hapless souls have been drawn into the
+Madstone, feeding it, making it grow, and stirring their
+minds into the jumbled consciousnesses that have merged
+in madness within the midnight-blue crystal.
+ADVENTURING IN KARRNATH
+No hazards or poor roads exist to hamper travel throughout
+Karrnath. There are, however, the Karrnath Royal
+Swords. This internal national guard patrols the roads
+and borders of the kingdom, and woe to the traveler
+whose identification papers aren't in order or who angers
+or annoys the Royal Swords in any way. They are quick to
+arrest or perform corporal or capital punishment in the
+name of the crown (the nation is still under martial law,
+after all), and they suffer no backtalk or aggravation from
+those they stop to question along the roads.
+The typical conveniences of the Five Nations can be
+found inside Karrnath's borders, including Orien trade
+roads, lightning rail stations that connect the nation's cities
+with the Mror Holds and the Talenta Plains, and air and sea
+ports for House Lyrandar ships. Before the war, the lightning
+rail connected Karrnath with western Khorvaire as
+well, but those links were severed with the destruction of
+Cyre and the collapse of the Golden Arch Bridge.
+The people of Karrnath are a dour, untrusting lot who
+believe in regiment and order. They are trying to follow the
+leadership of their king and offer friendship to the other
+nations, but they have a hard time dampening their superior
+attitude and the belief that their nation remains the
+best and strongest of the remnants of Galifar. They have
+little love for the people of Thrane and an outright hatred
+for the militaristic elves of Valenar, with whom they still
+consider themselves to be at war.
+The strict laws and oppressive nature of the country
+make it a difficult place for adventurers to thrive. Nevertheless,
+those willing to sell sword and spell can be found
+in the larger cities, especially Korth, Atur, and Vedykar,
+as well as in the border town of Vulyar. While his warlords
+have little use for adventurers, King Kaius III sometimes
+employs them to handle missions he would rather not trust
+to those with ties to the crown (or from which he wishes to
+distance himself with "plausible deniability").
+ADVENTURE IDEAS
+King Boranel of Breland has placed a special order for
+seven wheels of bitter cheese and twelve kegs of Nightwood
+ale, but no Sentinel honor guards are available to accompany
+the shipment. House Deneith hires adventurers to handle
+the job, promising a bonus if the cargo arrives safely and
+ahead of schedule so as not to disappoint Breland's king.
+An aspirant hoping to become part of the Twelve
+seeks the help of adventurers willing to determine the
+weaknesses of her competition. The heroes can help her
+attain a seat within the wizard council, or one adventurer
+can use the knowledge to make his own play for a position
+with the Twelve.
+A well-connected royal corpse collector is suspected
+of killing people on the sly to meet quotas and fill the
+ranks of Karrnath's undead army. Regent Moranna turns
+to independent operatives such as the adventurers to collect
+proof that the missing people of Vedykar are ending up in
+the corpse collector's assembly of zombies and skeletons.
+The adventurers are detained by the Royal Swords
+while traveling without proper documents through Karrnath.
+The Captain of the Swords offers them a way out
+of the "delicate situation" they find themselves in. Blood
+of Vol cultists have been gathering in Lakeside for some
+unknown purpose; she wants the heroes to find out what
+the cultists are up to and either stop them (if the threat
+is imminent) or return with news of their plans. If the
+adventurers refuse, the captain promises to send them to
+Fort Zombie, where the Captain of Corpses can always use
+a few more recruits.

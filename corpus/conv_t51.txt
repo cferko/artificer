@@ -1,0 +1,40 @@
+Material Plane and the coterminous plane at certain
+locations on each plane. For example, when Fernia is
+coterminous to the Material Plane, a character can travel
+to Fernia by means of a volcano or any extremely hot
+fireand the natives of Fernia can enter Eberron just as
+easily. Different planes' paths through the Astral Plane
+bring them into a coterminous relationship with varying
+frequency: Fernia draws near fairly often (one month
+every five years), while Xoriat has not done so in over
+seven thousand years.
+When a plane is coterminous to the Material Plane,
+certain of its traits may bleed over into the Material Plane,
+or at least into certain regions of the Material Plane. For
+example, when Risia is coterminous to the Material Plane,
+spells with the cold descriptor are enhanced in certain
+areas of the Material Plane. Not all planes have traits that
+spill over into the Material Plane.
+Waxing/Waning: As a plane draws close to becoming
+coterminous it is called waxing, and as it moves away
+after a period of being coterminous it is waning. No
+special effects on the Material Plane occur when a plane
+is waxing or waning.
+Remote: When a plane is remote, it is difficult to
+establish any connection at all between it and the Material
+Plane. When Fernia is remote, fire spells work less
+effectively, fire elementals are harder to summon, and
+it is nearly impossible to reach that plane via plane shift.
+Using plane shift to travel to a remote plane or using any
+spell to call or summon a native of that plane requires
+a Spellcraft check (DC 30 + spell level); a character with
+5 or more ranks in Knowledge (the planes) receives a +2
+circumstance bonus on this check.
+The Planes in Play: Sages and astronomers of Eberron
+use complex orreries and extensive charts to track the
+position of the planes relative to Eberron. No Dungeon
+Master should have to go to such lengths. For simplicity
+in play, bring a given plane into a coterminous position
+when it suits the needs of your campaign. If consistency is
+important to you, keep track of when the event occurred
+and when it will happen again, using the information in
