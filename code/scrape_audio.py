@@ -8,11 +8,19 @@ string = soup = BeautifulSoup(requests.get(urlpath).text)
 filelist = [out.split('\');">')[0] for out in str(soup).split(
             "javascript:PlaySound(\'")[1:-1]]
 
-print(filelist)
+labels = []
+
+for link in soup.findAll('a', href=True)[2:]:
+    title = link.contents[0]
+    if '<' not in link.contents[0] and "Zerg" not in title:
+        if '<' not in str(link.contents[0]):
+            labels.append(str(link.contents[0]).lower())
 
 my_path="../audio/"
 
-for filename in filelist:
+for index, filename in enumerate(filelist):
     testfile = urllib.URLopener()
+    prepend = filename.split('/')[0]
     print 'http://www.hazmatt.net/gaming/starcraft/zerg/units/' + filename
-    testfile.retrieve(urlpath + filename, my_path+filename.split('/')[-1])
+    output_name = (my_path+prepend+"_"+labels[index]+".wav").replace(' ', '')
+    testfile.retrieve(urlpath + filename, output_name)
