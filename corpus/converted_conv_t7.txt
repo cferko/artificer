@@ -1,0 +1,24 @@
+An artificer is not a spellcaster, but he
+does have the ability to imbue items with magical infusions.
+Infusions are neither arcane nor divine; they are
+drawn from the artificer infusion list (see Chapter 5:
+Magic). They function just like spells and follow all the
+rules for spells. For example, an infusion can be dispelled,
+it will not function in an antimagic area, and an artificer
+must make a Concentration check if injured while imbuing
+an item with an infusion.
+An artificer can imbue an item with any infusion
+from the list without preparing the infusion ahead of time.
+Unlike a sorcerer or bard, he does not select a subset of the
+available infusions as his known infusions; he has access
+to every infusion on the list that is of a level he can use.
+It is possible for an artificer to learn infusions that
+are not on the normal artificer infusion list. These might
+include ancient infusions he finds in the ruins of Xen'drik
+or secret infusions known only to the members of certain
+guilds or organizations. When he encounters such an
+infusion, an artificer can attempt to learn it by making
+a Spellcraft check (DC 20 + spell level). If this check succeeds,
+he adds the infusion to his list. If not, he can try
+again when he gains another rank in Spellcraft, assuming
+he still has access to the new infusion.

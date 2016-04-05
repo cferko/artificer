@@ -1,0 +1,18 @@
+Clerics are the knights of the churches of Caeros,
+trained in warfare and blessed with divine power. They
+fight for the causes of their religions, serving at the command
+of a higher authority. Most temples are staffed by
+acolytes who can wield divine magic but do not have the
+fighting prowess of clerics. Clerics are the champions and
+defenders of the faith.
+Other clerics across Estium serve no church and
+claim no allegiance to any deity. They recognize the power
+of the deities, but not their authority over mortal life.
+They hold principles of alignment or other abstract
+ideals higher than the deities who claim these ideals
+in their portfolios, and they draw divine power from
+the pervasive spiritual force in the world instead of
+channeling it through deities. These clerics are usually
+outcasts and loners, but the reality of their power
+is impossible to deny, and it lends credence to their
+unorthodox theology

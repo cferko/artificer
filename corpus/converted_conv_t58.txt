@@ -1,0 +1,162 @@
+Mabar, the Endless Night
+Utter blackness where no light shines fills the plane of
+Mabar, the Endless Night. The starless night lasts forever,
+its gloom never diminishing in the least. The darkness
+literally devours the life of visitors to this plane, extinguishing
+every spark of light that dares intrude upon the
+Endless Night
+
+Risia, the Plain of Ice
+A blizzard above a field of blowing snow that covers an
+infinite glacier, Risia consists of layer upon layer of
+cold and ice. Though mountains break the surface of
+the plain here and there, they are formed of solid ice,
+not stone. Lakes and streams mark the landscape, but
+they are not made of waterthey are places where the air
+itself has congealed to a frigid liquid, deadly to the touch.
+The atmosphere of Risia freezes the eyes and lungs, the
+wind steals breath, and the snow buries and entombs
+all things.
+
+Shavarath, the Battleground
+Three great armies mass eternally on the barren plains
+of Shavarath: a celestial host of archons, an infernal
+regiment of devils, and a swarming horde of demons.
+Warfare defines all aspects of their existence. Alliances
+come and gousually involving the devils allying with one
+or the other of their enemies and then breaking the alliance
+when the situation changes to their advantagebut
+the warfare never ends. Slain soldiers eventually return,
+usually in a lower form, but the armies of the three forces
+remain forever in a rough balance.
+Fortresses dot the landscape of Shavarath, each one
+locked in a great siege. Every fortress eventually falls,
+and they all shift hands many times before finally being
+reduced to rubble. As one collapses, a new one is built to
+replace it. Beyond these fortresses, the rocky and barren
+landscape stretches in all directions, sporadically accentuated
+by low hillsthe only distinguishable terrain anywhere
+on the plane.
+
+Syrania, the Azure Sky
+Crystalline cities float in Syrania's endless expanse of
+clear blue sky, their spires glittering in the ambient
+radiance of its perfect atmosphere. These cities, each
+ruled by a solar, are the homes of the angels. Angels are
+the only known inhabitants of this plane, andthough
+little is known of Syraniait seems to be a nearly perfect
+paradise.
+
+Thelanis, the Faerie Court
+Physically similar to both Estium and Lamannia,
+Thelanis is a realm of rugged natural beautyprimarily
+lush forests and crystal-clear waters. Among the trees
+rise shadowy spires of enchanting beauty, surrounded
+by mesmerizing lights that look like dancing lanterns.
+Phosphorescence gleams on plants and stones, lighting
+the eternal twilight of the plane, while a multitude of stars
+twinkle in the sky
+
+Xoriat, the Realm of Madness
+Beyond description or comprehension, Xoriat is aptly
+called the Realm of Madness. Not only do its alien geometry
+and unspeakable inhabitants seem like the product
+of a madman's nightmare, but any who visit Xoriat risk
+finding their minds shattered by the experience.
+Xoriat has been likened to a stack of translucent
+parchment, an apparently infinite connection of layers
+and dimensions. Its inhabitants exist on multiple layers
+simultaneously. Massive, drifting entities too large to notice
+visitors to the plane; free-floating rivers of milk-white
+liquid; rains of blue globes falling from unseen heights,
+only to burst and release horse-sized ticks when they strike
+another objectsuch are the madness-inducing features
+of Xoriat. Gelatinous worms wriggle from layer to layer,
+wending through tentacled vegetation encrusted with
+orange moss, all suspended above an amoebic sea. Over
+this mad realm the daelkyr are absolute masters.
+Like Nan, Xoriat's last time of being coterminous
+to the Material Plane was a disastrous period of
+warfare. Over nine thousand years ago, Xoriat became
+coterminous, and the daelkyr sent their minions into
+Caeros to conquer it. Before the orc and hobgoblin
+druids known as the Gatekeepers managed to alter Xoriat's
+orbit, the mind flayers and lesser minions of the daelkyr
+had decimated the hobgoblin Empire of Dhakaan. The
+Gatekeepers' magic was less cataclysmic than the giants'
+attempt to close the connection to Nan, however;
+Xoriat moved quickly away from its coterminous position
+but is sure to return one day.
+
+the world. For reasons unknown, the Shadow Marches
+is somehow "close" to Xoriat, and the natives of the
+Realm of Madness were able to enter Estium there
+during Xoriat's last coterminous phase. Throughout
+the Shadow Marches, magic went wild, time flowed
+strangely, and the daelkyr warped native creatures into
+monstrous aberrations.
+The intervention of the Gatekeepers during Xoriat's
+last coterminous phase altered the plane's orbit, and
+Xoriat has not been coterminous again since then.
+Dimensional seals (see page 272) keep the plane away,
+but various forces seek to break their power so Xoriat can
+draw near again.
+
+OUTSIDERS IN EBERRON
+As in any D&D campaign, the natives of the various
+planes can be brought to Estium by means of spells such
+as summon monster spells, planar ally and planar binding spells,
+and gate. A few monsters described in the Monster Manual
+as native to the Material Plane are actually extraplanar
+beings in Estium's cosmology. Mind flayers are native
+to Xoriat, and thus can theoretically be brought to Estium
+through magic (although Xoriat may well be remote,
+making it difficult to open a planar channel). Tritons are
+found on Thelanis, rather than being native outsiders as
+described in the Monster Manual.
+Similarly, a number of creatures found as natives on
+the Material Plane also live on the Outer Planes. These
+include a number of fey native to Thelanis (dryads,
+nymphs, satyrs, and sprites), shadows found on Mabar,
+and normal animals, vermin, and lycanthropes found
+on Lamannia. Calling spells such as planar ally and planar
+binding can bring these creatures to the Material Plane,
+where they gain the extraplanar subtype. Creatures of
+these types found naturally on the Material Plane do not
+have the extraplanar subtype, since they are native to the
+Material Plane.
+By contrast, night hags are outsiders native to Estium,
+and do not have the extraplanar subtype when encountered
+on the Material Plane.
+POSSESSION
+Some fiends with at least 4 Hit Dice and a Charisma score
+of at least 13 have the spell-like ability to shuck their physical
+forms and take on an ethereal form that allows them to
+possess another creature or an object.
+The creature's new form is ethereal and thus immune
+to even the most potent physical attacks and most magical
+attacks (except, for example, force attacks) by nonethereal
+creatures. When a fiend possesses a creature or object,
+even force effects no longer affect the fiend. Only spells
+such as dismissal can affect a possessing fiend when cast by
+nonethereal creatures. Any other sort of attack, magical or
+otherwise, directed against the fiend affects the possessed
+creature or object instead.
+While a fiend is in ethereal form, its corporeal body
+lies senseless, as if in a state of suspended animation. The
+body does not require food or air, but direct damage or
+exposure to an extreme environment will kill it. A fiend
+can roam ethereally as long as it wants, but an ethereal
+fiend dies if its body is destroyed, and it instantly returns
+to its body if dispel magic (or a similar effect) is successfully
+cast on the fiend's body.
+The caster level for a fiend's possession ability is equal
+to the fiend's Hit Dice. Fiends with the possession ability
+have a Challenge Rating 2 higher than standard fiends of
+their kind. For example, a succubus with the possession
+ability is a CR 9 creature.
+Once a fiend is on the Ethereal Plane, it floats through
+the world insubstantially, seeking a target to possess. Making
+a possession attempt is a supernatural ability that a fiend
+can use at will as a standard action.
+
