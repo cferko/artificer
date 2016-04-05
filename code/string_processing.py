@@ -55,3 +55,16 @@ for f in my_files:
                 if not contents:
                     break
                 targetFile.write(contents)
+                
+nan_files = [f for f in os.listdir("../nan_samples/")]
+
+for f in nan_files:
+    my_in_path = "../nan_samples/"+f
+    my_out_path = "../nan_samples/converted_"+f
+    with codecs.open(my_in_path, "r", "mbcs") as sourceFile:
+        with codecs.open(my_out_path, "w", "utf-8") as targetFile:
+            while True:
+                contents = sourceFile.read(BLOCKSIZE)
+                if not contents:
+                    break
+                targetFile.write(contents)
