@@ -3,6 +3,8 @@ from IPython.display import Audio as listen
 import numpy as np
 from scipy.io import wavfile
 
+import matplotlib.pyplot as plt
+
 from IPython import get_ipython
 ipython = get_ipython()
 ipython.magic("matplotlib inline")
@@ -41,3 +43,16 @@ def listen(audio):
     
     else:
         return IPython.display.Audio(audio, rate = 22050)
+        
+def frequency_domain_demo():
+    from IPython.display import HTML
+    video_encoded = open("../../images/fourier.mp4", "rb").read().encode("base64")
+    video_tag = '<video controls alt="test" src="data:video/{0};base64,{1}">'.format("mp4", video_encoded)
+    return HTML(data=video_tag)
+    
+def compare_speech():
+    f, axarr = plt.subplots(2, sharey=True)
+    axarr[0].specgram(female_audio)
+    axarr[0].set_title('Female Spectrogram')
+    axarr[1].specgram(male_audio)
+    axarr[1].set_title('Male Spectrogram')
