@@ -1,5 +1,5 @@
 import IPython
-from IPython.display import Audio as listen
+from IPython.display import Audio
 import numpy as np
 from scipy.io import wavfile
 
@@ -33,8 +33,11 @@ def get_male_example():
 def get_female_example():
     return female_audio
 
-def listen(audio):
+def get_aberrant_example():
+    aberrant_rate, aberrant_audio = wavfile.read("../../audio/queen_annoyance3.wav")
+    return aberrant_audio
 
+def listen(audio):
     if np.array_equal(audio, male_audio):
         return IPython.display.Audio("../../audio/male_sample.wav")
         
@@ -51,7 +54,7 @@ def frequency_domain_demo():
     return HTML(data=video_tag)
     
 def compare_speech():
-    f, axarr = plt.subplots(2, sharey=True)
+    f, axarr = plt.subplots(2, sharex=True)
     axarr[0].specgram(female_audio)
     axarr[0].set_title('Female Spectrogram')
     axarr[1].specgram(male_audio)
