@@ -1,5 +1,13 @@
 from __future__ import division
 
+import subprocess
+from IPython.core.magic import (Magics, magics_class, line_magic,
+                                cell_magic, line_cell_magic)
+import os         
+from datetime import datetime
+import pandas as pd
+import pexpect
+
 import IPython
 from IPython.display import Audio
 import numpy as np
@@ -78,8 +86,6 @@ def frequency_domain_demo():
     video_encoded = open("../../images/fourier.mp4", "rb").read().encode("base64")
     video_tag = '<video controls alt="test" src="data:video/{0};base64,{1}">'.format("mp4", video_encoded)
     return HTML(data=video_tag)
-    
-from matplotlib import cm
 
 def my_specgram(x, NFFT=256, Fs=2, Fc=0, detrend=mlab.detrend_none,
              window=mlab.window_hanning, noverlap=128,
@@ -141,3 +147,56 @@ def compare_speech():
     axarr[1].set_title('Male Spectrogram')
     axarr[2].specgram(aberrant_audio, Fs=44100, cmap='jet')
     axarr[2].set_title('Aberrant Spectrogram')
+
+@magics_class
+class MyMagics(Magics):
+
+    @line_magic
+    def checkpoint(self, line):
+        """For signup, just save name if it exists
+        """
+        try:                
+            print "Checkpoint complete."
+        
+        except:
+            print "Christian made a mistake."
+
+def commit():
+    subprocess.call("""cd /home/main/notebooks/logs/micaeli;
+                     git config --global user.email "ferko7@hotmail.com";
+                     git config --global user.name "jttalks";
+                     git pull""", shell=True)
+    
+    
+    ## Change this to get the index corresponding to this character
+    my_indices = [int(f) for f in os.listdir('/home/main/notebooks/logs/') if '.' not in f]
+
+    timestamp = datetime.now().ctime()
+    
+    ## Change this to the relevant data
+    my_data = pd.Series([me.real_name,
+                         me.character_name,
+                         me.email,
+                         me.race,
+                         me.house,
+                         timestamp])
+    
+    my_data.to_csv("/home/main/notebooks/records/"+new_index,
+                   index=False)
+                   
+    subprocess.call("""cd /home/main/eldritch-signup/records/;
+                      git add *;
+                      git commit -m "ADD: signup" """, shell=True)
+                     
+    pexpect.run('git push -u origin master', 
+                cwd='/home/main/notebooks/logs/',
+               events={'Username*':'jttalks\n', 'Password*':'jttalks1\n'})    
+        
+if __name__ == "__main__":
+    ip = get_ipython()
+    ip.register_magics(MyMagics)
+    
+    me = Character()
+    
+    print "Micaeli setup complete."
+    
