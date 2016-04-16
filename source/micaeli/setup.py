@@ -168,35 +168,33 @@ def commit():
                      git pull""", shell=True)
     
     
-    ## Change this to get the index corresponding to this character
-    my_indices = [int(f) for f in os.listdir('/home/main/notebooks/logs/') if '.' not in f]
-
-    timestamp = datetime.now().ctime()
-    
-    ## Change this to the relevant data
-    my_data = pd.Series([me.real_name,
-                         me.character_name,
-                         me.email,
-                         me.race,
-                         me.house,
-                         timestamp])
-    
-    my_data.to_csv("/home/main/notebooks/records/"+new_index,
-                   index=False)
-                   
-    subprocess.call("""cd /home/main/eldritch-signup/records/;
-                      git add *;
-                      git commit -m "ADD: signup" """, shell=True)
-                     
-    pexpect.run('git push -u origin master', 
-                cwd='/home/main/notebooks/logs/',
-               events={'Username*':'jttalks\n', 'Password*':'jttalks1\n'})    
+#    ## Change this to get the index corresponding to this character
+#    my_indices = [int(f) for f in os.listdir('/home/main/notebooks/logs/') if '.' not in f]
+#
+#    timestamp = datetime.now().ctime()
+#    
+#    ## Change this to the relevant data
+#    my_data = pd.Series([me.real_name,
+#                         me.character_name,
+#                         me.email,
+#                         me.race,
+#                         me.house,
+#                         timestamp])
+#    
+#    my_data.to_csv("/home/main/notebooks/records/"+new_index,
+#                   index=False)
+#                   
+#    subprocess.call("""cd /home/main/eldritch-signup/records/;
+#                      git add *;
+#                      git commit -m "ADD: signup" """, shell=True)
+#                     
+#    pexpect.run('git push -u origin master', 
+#                cwd='/home/main/notebooks/logs/',
+#               events={'Username*':'jttalks\n', 'Password*':'jttalks1\n'})    
         
 if __name__ == "__main__":
     ip = get_ipython()
     ip.register_magics(MyMagics)
-    
-    me = Character()
     
     print "Micaeli setup complete."
     
