@@ -1,5 +1,8 @@
 from __future__ import division
 
+import warnings
+warnings.filterwarnings("ignore")
+
 import subprocess
 from IPython.core.magic import (Magics, magics_class, line_magic,
                                 cell_magic, line_cell_magic)
@@ -63,6 +66,10 @@ def get_female_example():
     return standardize(female_rate, female_audio)
 
 def get_aberrant_example():
+    aberrant_rate, aberrant_audio = wavfile.read("../../audio/queen_acknowledgement1.wav")
+    return standardize(aberrant_rate, aberrant_audio)
+
+def get_aberrant_example_two():
     aberrant_rate, aberrant_audio = wavfile.read("../../audio/queen_annoyance3.wav")
     return standardize(aberrant_rate, aberrant_audio)
 
@@ -195,6 +202,14 @@ def commit():
 if __name__ == "__main__":
     ip = get_ipython()
     ip.register_magics(MyMagics)
+    
+    ang2_rate, ang2_audio = wavfile.read("../../audio/queen_annoyance1.wav")
+    angry_two = standardize(ang2_rate, ang2_audio)
+    
+    nonang2_rate, nonang2_audio = wavfile.read("../../audio/queen_affirmation1.wav")
+    nonangry_two = standardize(nonang2_rate, nonang2_audio)
+    nonang3_rate, nonang3_audio = wavfile.read("../../audio/queen_acknowledgement2.wav")
+    nonangry_three = standardize(nonang3_rate, nonang3_audio)
     
     print "Micaeli setup complete."
     
