@@ -206,7 +206,7 @@ if __name__ == "__main__":
     ang2_rate, ang2_audio = wavfile.read("../../audio/queen_annoyance1.wav")
     angry_two = standardize(ang2_rate, ang2_audio)
     
-    nonang2_rate, nonang2_audio = wavfile.read("../../audio/queen_affirmation1.wav")
+    nonang2_rate, nonang2_audio = wavfile.read("../../audio/queen_affirmation2.wav")
     nonangry_two = standardize(nonang2_rate, nonang2_audio)
     nonang3_rate, nonang3_audio = wavfile.read("../../audio/queen_acknowledgement2.wav")
     nonangry_three = standardize(nonang3_rate, nonang3_audio)
