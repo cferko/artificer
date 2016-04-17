@@ -48,7 +48,7 @@ def frequency_domain(audio_sample):
 
     rate=44100
     num_samples = len(audio_sample)
-    freqs = [(i*1.0/num_samples)*rate for i in range(num_samples/2+1)]
+    freqs = [(i*1.0/num_samples)*rate for i in range(int(num_samples/2)+1)]
     
     ## Keep only first 5000 for simplicity
     strengths = np.array(strengths[:5000])
